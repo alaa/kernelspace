@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://kernelspace.me
-title: My technical blog
-subtitle: Blogging about Software Systems
+title: Kernel Space
+subtitle: Thoughts on Linux Internals & Ruby Dev.
 author: Alaa Qutaish
 simple_search: http://google.com/search
 description:
@@ -94,7 +94,7 @@ disqus_short_name: kernelspace
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-23467646-1
 
 # Facebook Like
 facebook_like: true
