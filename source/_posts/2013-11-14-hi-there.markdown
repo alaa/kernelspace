@@ -1,0 +1,8 @@
+---
+layout: post
+title: "hi there"
+date: 2013-11-14 16:40
+comments: true
+categories: 
+---
+Hello my name is alaa, and this is my first post on kernelspace.me
