@@ -5,4 +5,5 @@ date: 2013-11-14 16:40
 comments: true
 categories: 
 ---
-Hello my name is alaa, and this is my first post on kernelspace.me
+Hello my name is Alaa Qutaish, I am Software Systems engineer, focusing
+on distributed systems, and performance. This is my first post on kernelspace.me which will be my personal blog and will try to share my current and new learnings.
