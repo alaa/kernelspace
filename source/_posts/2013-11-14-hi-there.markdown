@@ -7,3 +7,5 @@ categories:
 ---
 Hello my name is Alaa Qutaish, I am Software Systems engineer, focusing
 on distributed systems, and performance. This is my first post on kernelspace.me which will be my personal blog and will try to share my current and new learnings.
+
+see you soon!
