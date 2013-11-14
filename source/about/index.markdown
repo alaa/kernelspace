@@ -2,8 +2,8 @@
 layout: page
 title: "about"
 date: 2013-11-14 20:06
-comments: true
-sharing: true
+comments: false
+sharing: false
 footer: true
 ---
 My name is Alaa Qutaish
