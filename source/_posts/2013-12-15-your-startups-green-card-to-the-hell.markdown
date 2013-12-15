@@ -3,7 +3,7 @@ layout: post
 title: "Startup's Green-Card To Hell"
 date: 2013-12-15 01:39
 comments: true
-categories: [Startups, DevOps] 
+categories: [:startups, :devops] 
 ---
 I have seen many start-up founders creating their e-hell projects rather than
 building thier own start-up project. The worst part is thier statsfying
