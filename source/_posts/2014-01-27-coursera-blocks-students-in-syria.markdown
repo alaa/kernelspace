@@ -13,5 +13,5 @@ Well, In case you did not know. The Syrian regime is really busy
 terminating the population, I can assure you that they are not willing to
 study Algorithms, Machine learning or Music!. The regime is stupid enough to learn anyway.
 
-I am not writing this to discuss politics, I am just want education to
+I am not writing this to discuss politics, I just want the education to
 reach everybody who wants to learn.
